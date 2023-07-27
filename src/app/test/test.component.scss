@@ -1,0 +1,85 @@
+label,p,h1{
+  @apply text-white;
+
+}
+input{
+  @apply mr-2;
+}
+.box-width {
+  max-height: 100vh; /* Adjust this value to your preference */
+  width: 420px;
+}
+.form-container{
+  height: 120px;
+}
+/* Custom styles for the scrollable content container */
+.form-container::-webkit-scrollbar {
+  width: 8px;
+}
+
+.form-container::-webkit-scrollbar-thumb {
+  @apply bg-indigo-600; /* Blue color for the scrollbar thumb */
+  border-radius: 4px;
+}
+
+.form-container::-webkit-scrollbar-track {
+  @apply bg-indigo-50; /* Blue color for the scrollbar thumb */
+  border-radius: 4px;
+
+}
+.card{
+  margin-top: 37px
+}
+button{
+  margin-top: 41px;
+}
+
+
+// /* Apply the background image to the outer container */
+// .contin {
+//   background-image: url('https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4wyUh?ver=322d');
+//   background-position: center center;
+//   background-repeat: no-repeat;
+//   background-size: cover;
+//   height: 101%;
+//   margin: -1px 0px 0px -1px;
+//   object-fit: cover;
+//   padding: 0px;
+//   position: absolute;
+//   width: 101%;
+//    /* Apply the blurry effect to the background */
+//    &::before {
+//     content: '';
+//     height: 100%;
+//     opacity: 1;
+//     position: absolute;
+//     top: 0px;
+//     transition: opacity 0.3s linear 0s;
+//     width: 100%;
+//     background-image: radial-gradient(rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.5) 100%), radial-gradient( rgba(0, 0, 0, 0.3) 166%,rgba(0, 0, 0, 0) 33%);
+//   }
+// }
+
+// /* Adjust the inner container's background color to create a transparent overlay effect */
+// .container {
+//   background-color: rgba(0, 0, 0, 0.7); /* Change the alpha value (0.7) to control the transparency */
+// }
+
+/* Center the content vertically */
+.h-screen {
+  display: flex;
+  justify-content: center;
+}
+
+/* Center the content horizontally */
+.w-full {
+  display: flex;
+  justify-content: center;
+}
+
+*{
+  transition: ease-in-out 0.09s all;
+}
+*::-webkit-scrollbar-thumb,*::-webkit-scrollbar,*::-webkit-scrollbar-track{
+  transition: ease-in-out 0.55s all;
+}

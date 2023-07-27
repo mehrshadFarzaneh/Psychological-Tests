@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1690467452654,
+  "timestamp": 1690470232108,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.19e03048c45b25e8.js",
+        "/main.b05926db1abdf1f6.js",
         "/manifest.webmanifest",
         "/polyfills.b4941d585a1e5783.js",
         "/runtime.e2aa4732f2680418.js",
@@ -85,7 +85,7 @@
     "/color.dae87a04d07ca92b.png": "ff4c4bcb2207891b292f544edb4da9d2df5d45cf",
     "/favicon.ico": "4e23d0f9b6ddaf3c9ddef90dbaed2342941297b5",
     "/hue.8b1818380241e6ac.png": "f81ae627637a684614aa726e206c73ce099a01fd",
-    "/index.html": "3a335dafe60fe408dd9633cee964b534db09c9cb",
+    "/index.html": "7f5d809026d2e780400baee7cef7fc333a6339d9",
     "/iranyekanwebbold.cfb6e26ce06c307f.woff2": "5edb5c3670e022824f7f14d46120ac637785351f",
     "/iranyekanwebbold.f8bf4bf6a4404c59.ttf": "ffb52ef443ca91c5944b118f8b9ed8df280a8fb4",
     "/iranyekanwebbold.f94d5af0e9487089.woff": "0b6e9470042f54ea42850230242cd4737b6e6e78",
@@ -95,7 +95,7 @@
     "/iranyekanwebregular.1d0667f58756f312.ttf": "efb398ebdb95c6af0bd1618bf46e48e80e9ca816",
     "/iranyekanwebregular.534fe99e6c4790b1.woff": "5b4b9506b2fb2062781eda2ebdef3ddd7c0c49c0",
     "/iranyekanwebregular.e31c09af290c6315.woff2": "d2f39675c0d34ac7d0d973f72cef8d279324ca63",
-    "/main.19e03048c45b25e8.js": "082893dea9822d07e638222aa015f31d3e935f49",
+    "/main.b05926db1abdf1f6.js": "e2ac512e51380c23bea53b82a3371bd15a213f00",
     "/manifest.webmanifest": "77b05693b3e7d958e10086c39997a1806f4ed0fa",
     "/polyfills.b4941d585a1e5783.js": "7d2a6769d0b2d5cd91a5f213518c53b21f23934c",
     "/runtime.e2aa4732f2680418.js": "89ccba08b06f6c97f75fc9d42d18d2ceb61cd665",
